@@ -1,0 +1,7 @@
+path: C:\Users\AliOs\OneDrive\Desktop\COMP VISION\data
+
+train: images\train
+val: images\train
+
+names:
+- comments
